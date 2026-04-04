@@ -6,7 +6,7 @@ This file provides context and preferences for AI coding agents working in this 
 
 **Repo:** `rwxrob/notes-boost`  
 **Owner:** [@rwxrob](https://github.com/rwxrob)  
-**Description:** *(update with project description)*
+**Description:** Personal notes and sample code from rwxrob's Beginner Boost live streams on Twitch. Contains searchable notes and code written during sessions.
 
 ## Preferences
 
