@@ -11,7 +11,7 @@ This file provides context and preferences for AI coding agents working in this 
 ## Preferences
 
 - Keep responses concise and direct
-- Commit messages should be imperative mood, lowercase subject line
+- Use [Conventional Commits](https://www.conventionalcommits.org/) for all commit messages (e.g. `feat:`, `fix:`, `docs:`, `chore:`)
 - Never refer to any agent in any issue, PR, or commit message
 
 ## Conventions
