@@ -21,3 +21,13 @@ This file provides context and preferences for AI coding agents working in this 
 ## Notes for Agents
 
 - This repo is currently sparse; update this file as structure and conventions emerge
+- Always read the **Progress** section below to understand where the user left off
+- Update the **Progress** section at the end of each session with what was covered and what's next
+
+## Progress
+
+*(Update this section each session — what was covered, what's next)*
+
+- **Last session:** Not yet started
+- **Topics covered:** None yet
+- **Up next:** First Beginner Boost session

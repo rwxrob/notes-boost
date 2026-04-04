@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Launch GitHub Copilot CLI from the notes-boost repo root.
+# Run this script to start a session — Copilot will read AGENTS.md
+# and pick up where you left off.
+cd "$(git rev-parse --show-toplevel)" && gh copilot
